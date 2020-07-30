@@ -1,1 +1,1 @@
-# unity-cookbook-2020-ch06-10-turn-off-gravity
+# unity-cookbook-2020-ch06-10-sprite-masking
